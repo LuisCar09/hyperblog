@@ -20,6 +20,26 @@ body{
     font-weight: normal;
     font-size: 0.8em;
 }
+#mensajeDeContacto{
+    border: 1px solid wheat;
+    /*text-align: left;*/
+    font-size: 16px;
+}
+#contenedorButton{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    
+}
+#contenedorButton #buttons{
+    border: 1px solid white;
+    background-color: #33a;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    width: 90px;
+    height: 32px;
+    padding: 3px;
+}
 #container{
     width: 70%;
     color: black;
