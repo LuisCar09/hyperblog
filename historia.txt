@@ -12,3 +12,5 @@ master 1
 master 2
 
 Mañana nos enfocaremos en su vida laboral
+
+Esta es la prueba del rebase sin el profe Freddier
