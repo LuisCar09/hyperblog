@@ -13,6 +13,7 @@ master 1
 master 2
 master 3
 
+mañana sera un lindo dia
 Mañana nos enfocaremos en su vida laboral
 
 Esta es la prueba del rebase sin el profe Freddier
