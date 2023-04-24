@@ -9,6 +9,6 @@ Un blog increíble para el curso de Git y Github de Platzi
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Luis
 * Creado por el increible LuisCar
-
-
-##Luis Carlos Bravo
+* Incluye ejemplo Window, Linux y Mac
+* Disponible para todas las edades
+## Luis Carlos Bravo
